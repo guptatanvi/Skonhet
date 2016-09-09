@@ -39,14 +39,14 @@ position: relative;
   display: inline-block;
   line-height: 1.4em;
   text-align: left;
-  float: left;
   height: 500px;
   width: 250px;
 }
 
 .tower img{
+margin-left: 200px;
 display: inline-block;
-text-align: left;
+text-align: center;
 }
 
 .tower-right p{
@@ -265,6 +265,10 @@ footer{
 
 .tower p{
   text-align: left;
+}
+
+.boxed{
+  width: auto;
 }
 
 }
